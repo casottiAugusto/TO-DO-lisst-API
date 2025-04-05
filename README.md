@@ -39,7 +39,7 @@ todo-api-ts/
 
 ```bash
 git clone https://github.com/seu-usuario/todo-api-ts.git
-cd todo-api-ts
+cd tTO-DO-LIST-API
 ```
 
 2. Instale as dependências:

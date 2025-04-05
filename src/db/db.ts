@@ -1,7 +1,7 @@
 import Database from "better-sqlite3";
 
 // Cria (ou abre) o banco de dados local
-const db = new Database("list.db");
+const db = new Database("todo.db");
 
 // Cria a tabela se não existir
 db.prepare(`

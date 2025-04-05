@@ -104,4 +104,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## ✨ Autor
 
-Feito com 💻 por [Seu Nome](https://github.com/seu-usuario)
+Feito com 💻 por Joao augusto casotti (https://github.com/seu-usuario)

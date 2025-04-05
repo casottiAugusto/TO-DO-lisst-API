@@ -159,3 +159,5 @@ dist
 
 # SvelteKit build / generate output
 .svelte-kit
+#node module
+.node_modules/
